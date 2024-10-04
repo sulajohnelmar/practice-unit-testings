@@ -1,0 +1,15 @@
+{
+  "name": "practice-unit-testings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mathmathutil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
